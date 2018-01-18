@@ -1,0 +1,14 @@
+{
+    "name": "jackiwu/fox",
+    "description": "test",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "jackiwu",
+            "email": "917436062@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
